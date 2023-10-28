@@ -1,4 +1,4 @@
-# IMDB API Clone With DRF
+# IMDB API Clone
 
 <h3>🔗 Final Project Links (Arranged According To Usage)</h3>
 <br>
